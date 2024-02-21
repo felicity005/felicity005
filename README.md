@@ -3,7 +3,7 @@ I am Felicity I am on the Varsity Golf team and JV Track team.
 ### I code
 I can code in python and javascript
 ### Animals
-I love dogs and turtles, especially mine
+I love dogs🐶 and turtles🐢, especially mine
 
 <!--
 **felicity005/felicity005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
