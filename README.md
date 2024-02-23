@@ -5,6 +5,9 @@ I can code in python and javascript
 ### Animals
 I love dogs🐶 and turtles🐢, especially mine
 
+### Education
+I am an high school student
+
 <!--
 **felicity005/felicity005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
