@@ -1,26 +1,14 @@
-### Hi 👋, 你好, Aloha🏝️
-I am Felicity I am on the Varsity Golf team and JV Track team.
+# Hi 👋, 你好, Aloha🏝️
+
+I am Felicity I am on the Varsity Golf ⛳️ team and JV Track 🏃🏻‍♀️ team.
 ---
-### I code
+## I code 👩🏻‍💻
 I can code in python and javascript
 
-### Animals
+## Animals
 I love dogs🐶 and turtles🐢, especially mine
 
-### Education
+## Education 🎓
 I am an high school student
 
-<!--
-**felicity005/felicity005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ACF SPORTSAI STARTUP TEAM
